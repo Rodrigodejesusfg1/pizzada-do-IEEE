@@ -1,9 +1,7 @@
-# pizzada-do-IEEE
+# 🍕 Pizzada do IEEE
 
-# 🍕 Pizzaria Git
-
-Bem-vindo à dinâmica de aprendizado de Git!  
-Hoje vamos simular um projeto colaborativo para criar o README da **Pizzaria Git**.
+Bem-vindo à nossa dinâmica de aprendizado de Git!  
+Hoje vamos simular um projeto colaborativo para criar o README da **Pizzada do IEEE**.
 
 ---
 
@@ -25,4 +23,4 @@ Trabalhar em grupos diferentes, usando **branches** e os comandos básicos do Gi
 Copie e cole no terminal:
 
 ```bash
-git clone <https://github.com/Rodrigodejesusfg1/pizzada-do-IEEE>
+git clone https://github.com/Rodrigodejesusfg1/pizzada-do-IEEE.git
