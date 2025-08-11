@@ -26,3 +26,10 @@ Copie e cole no terminal:
 
 ```bash
 git clone <https://github.com/Rodrigodejesusfg1/pizzada-do-IEEE>
+```
+
+### Sabores:
+- Calabresa
+- Queijo
+- Frango com catupiry
+- Portuguesa
